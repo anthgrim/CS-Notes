@@ -1,0 +1,8 @@
+C:\Users\anthg\Documents\CSharp\CS-Notes\Lists\Lists\bin\Debug\Lists.exe.config
+C:\Users\anthg\Documents\CSharp\CS-Notes\Lists\Lists\bin\Debug\Lists.exe
+C:\Users\anthg\Documents\CSharp\CS-Notes\Lists\Lists\bin\Debug\Lists.pdb
+C:\Users\anthg\Documents\CSharp\CS-Notes\Lists\Lists\obj\Debug\Lists.csproj.AssemblyReference.cache
+C:\Users\anthg\Documents\CSharp\CS-Notes\Lists\Lists\obj\Debug\Lists.csproj.SuggestedBindingRedirects.cache
+C:\Users\anthg\Documents\CSharp\CS-Notes\Lists\Lists\obj\Debug\Lists.csproj.CoreCompileInputs.cache
+C:\Users\anthg\Documents\CSharp\CS-Notes\Lists\Lists\obj\Debug\Lists.exe
+C:\Users\anthg\Documents\CSharp\CS-Notes\Lists\Lists\obj\Debug\Lists.pdb
