@@ -1,0 +1,8 @@
+C:\Users\KevinGrimaldi\Desktop\C# Course\Beginner\Repos\ConstantsAndVariables\ConstantsAndVariables\obj\Debug\ConstantsAndVariables.csproj.AssemblyReference.cache
+C:\Users\KevinGrimaldi\Desktop\C# Course\Beginner\Repos\ConstantsAndVariables\ConstantsAndVariables\obj\Debug\ConstantsAndVariables.csproj.SuggestedBindingRedirects.cache
+C:\Users\KevinGrimaldi\Desktop\C# Course\Beginner\Repos\ConstantsAndVariables\ConstantsAndVariables\obj\Debug\ConstantsAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\KevinGrimaldi\Desktop\C# Course\Beginner\Repos\ConstantsAndVariables\ConstantsAndVariables\bin\Debug\ConstantsAndVariables.exe.config
+C:\Users\KevinGrimaldi\Desktop\C# Course\Beginner\Repos\ConstantsAndVariables\ConstantsAndVariables\bin\Debug\ConstantsAndVariables.exe
+C:\Users\KevinGrimaldi\Desktop\C# Course\Beginner\Repos\ConstantsAndVariables\ConstantsAndVariables\bin\Debug\ConstantsAndVariables.pdb
+C:\Users\KevinGrimaldi\Desktop\C# Course\Beginner\Repos\ConstantsAndVariables\ConstantsAndVariables\obj\Debug\ConstantsAndVariables.exe
+C:\Users\KevinGrimaldi\Desktop\C# Course\Beginner\Repos\ConstantsAndVariables\ConstantsAndVariables\obj\Debug\ConstantsAndVariables.pdb
