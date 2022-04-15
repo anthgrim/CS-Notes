@@ -1,0 +1,8 @@
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\3-Non-PrimitiveTypes\ReferenceTypesAndValueTypes\ReferenceTypesAndValueTypes\bin\Debug\ReferenceTypesAndValueTypes.exe.config
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\3-Non-PrimitiveTypes\ReferenceTypesAndValueTypes\ReferenceTypesAndValueTypes\bin\Debug\ReferenceTypesAndValueTypes.exe
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\3-Non-PrimitiveTypes\ReferenceTypesAndValueTypes\ReferenceTypesAndValueTypes\bin\Debug\ReferenceTypesAndValueTypes.pdb
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\3-Non-PrimitiveTypes\ReferenceTypesAndValueTypes\ReferenceTypesAndValueTypes\obj\Debug\ReferenceTypesAndValueTypes.csproj.AssemblyReference.cache
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\3-Non-PrimitiveTypes\ReferenceTypesAndValueTypes\ReferenceTypesAndValueTypes\obj\Debug\ReferenceTypesAndValueTypes.csproj.SuggestedBindingRedirects.cache
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\3-Non-PrimitiveTypes\ReferenceTypesAndValueTypes\ReferenceTypesAndValueTypes\obj\Debug\ReferenceTypesAndValueTypes.csproj.CoreCompileInputs.cache
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\3-Non-PrimitiveTypes\ReferenceTypesAndValueTypes\ReferenceTypesAndValueTypes\obj\Debug\ReferenceTypesAndValueTypes.exe
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\3-Non-PrimitiveTypes\ReferenceTypesAndValueTypes\ReferenceTypesAndValueTypes\obj\Debug\ReferenceTypesAndValueTypes.pdb
