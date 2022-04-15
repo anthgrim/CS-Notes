@@ -31,6 +31,19 @@ namespace ReferenceTypesAndValueTypes
             Console.WriteLine("\nAfter change");
             Console.WriteLine("Array1 at 0: {0}\nArray2 at 0: {1}", array1[0], array2[0]);
 
+            //Using class
+            var person = new Person();
+            person.FirstName = "John";
+            person.LastName = "Whick";
+            person.Age = 45;
+
+            Console.WriteLine("Current Age: {0}", person.Age);
+
+            Console.WriteLine("Increased Age: {0}", person.IncreaseAge(10));
+
+            Console.WriteLine("Decreased Age: {0}", person.DecreaseAge(5));
+
+            person.Introduce();
         }
     }
 }
