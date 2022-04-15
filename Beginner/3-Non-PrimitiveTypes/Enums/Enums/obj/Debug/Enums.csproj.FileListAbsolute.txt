@@ -1,0 +1,8 @@
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\3-Non-PrimitiveTypes\Enums\Enums\bin\Debug\Enums.exe.config
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\3-Non-PrimitiveTypes\Enums\Enums\bin\Debug\Enums.exe
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\3-Non-PrimitiveTypes\Enums\Enums\bin\Debug\Enums.pdb
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\3-Non-PrimitiveTypes\Enums\Enums\obj\Debug\Enums.csproj.AssemblyReference.cache
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\3-Non-PrimitiveTypes\Enums\Enums\obj\Debug\Enums.csproj.SuggestedBindingRedirects.cache
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\3-Non-PrimitiveTypes\Enums\Enums\obj\Debug\Enums.csproj.CoreCompileInputs.cache
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\3-Non-PrimitiveTypes\Enums\Enums\obj\Debug\Enums.exe
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\3-Non-PrimitiveTypes\Enums\Enums\obj\Debug\Enums.pdb
