@@ -1,0 +1,8 @@
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\1-Exercises\Section5_ControlFlow_Exercises\Section5_ControlFlow_Exercises\bin\Debug\Section5_ControlFlow_Exercises.exe.config
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\1-Exercises\Section5_ControlFlow_Exercises\Section5_ControlFlow_Exercises\bin\Debug\Section5_ControlFlow_Exercises.exe
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\1-Exercises\Section5_ControlFlow_Exercises\Section5_ControlFlow_Exercises\bin\Debug\Section5_ControlFlow_Exercises.pdb
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\1-Exercises\Section5_ControlFlow_Exercises\Section5_ControlFlow_Exercises\obj\Debug\Section5_ControlFlow_Exercises.csproj.AssemblyReference.cache
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\1-Exercises\Section5_ControlFlow_Exercises\Section5_ControlFlow_Exercises\obj\Debug\Section5_ControlFlow_Exercises.csproj.SuggestedBindingRedirects.cache
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\1-Exercises\Section5_ControlFlow_Exercises\Section5_ControlFlow_Exercises\obj\Debug\Section5_ControlFlow_Exercises.csproj.CoreCompileInputs.cache
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\1-Exercises\Section5_ControlFlow_Exercises\Section5_ControlFlow_Exercises\obj\Debug\Section5_ControlFlow_Exercises.exe
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\1-Exercises\Section5_ControlFlow_Exercises\Section5_ControlFlow_Exercises\obj\Debug\Section5_ControlFlow_Exercises.pdb
