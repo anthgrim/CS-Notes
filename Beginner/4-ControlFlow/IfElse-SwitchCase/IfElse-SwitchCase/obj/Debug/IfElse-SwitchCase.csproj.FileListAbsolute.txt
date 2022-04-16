@@ -1,0 +1,8 @@
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\4-ControlFlow\IfElse-SwitchCase\IfElse-SwitchCase\bin\Debug\IfElse-SwitchCase.exe.config
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\4-ControlFlow\IfElse-SwitchCase\IfElse-SwitchCase\bin\Debug\IfElse-SwitchCase.exe
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\4-ControlFlow\IfElse-SwitchCase\IfElse-SwitchCase\bin\Debug\IfElse-SwitchCase.pdb
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\4-ControlFlow\IfElse-SwitchCase\IfElse-SwitchCase\obj\Debug\IfElse-SwitchCase.csproj.AssemblyReference.cache
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\4-ControlFlow\IfElse-SwitchCase\IfElse-SwitchCase\obj\Debug\IfElse-SwitchCase.csproj.SuggestedBindingRedirects.cache
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\4-ControlFlow\IfElse-SwitchCase\IfElse-SwitchCase\obj\Debug\IfElse-SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\4-ControlFlow\IfElse-SwitchCase\IfElse-SwitchCase\obj\Debug\IfElse-SwitchCase.exe
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\4-ControlFlow\IfElse-SwitchCase\IfElse-SwitchCase\obj\Debug\IfElse-SwitchCase.pdb
