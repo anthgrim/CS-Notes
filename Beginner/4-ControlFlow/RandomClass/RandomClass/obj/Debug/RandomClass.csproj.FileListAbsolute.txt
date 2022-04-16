@@ -1,0 +1,8 @@
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\4-ControlFlow\RandomClass\RandomClass\bin\Debug\RandomClass.exe.config
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\4-ControlFlow\RandomClass\RandomClass\bin\Debug\RandomClass.exe
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\4-ControlFlow\RandomClass\RandomClass\bin\Debug\RandomClass.pdb
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\4-ControlFlow\RandomClass\RandomClass\obj\Debug\RandomClass.csproj.AssemblyReference.cache
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\4-ControlFlow\RandomClass\RandomClass\obj\Debug\RandomClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\4-ControlFlow\RandomClass\RandomClass\obj\Debug\RandomClass.csproj.CoreCompileInputs.cache
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\4-ControlFlow\RandomClass\RandomClass\obj\Debug\RandomClass.exe
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\4-ControlFlow\RandomClass\RandomClass\obj\Debug\RandomClass.pdb
