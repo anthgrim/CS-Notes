@@ -1,0 +1,8 @@
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\8-Files\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\DirectoryAndDirectoryInfo.exe.config
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\8-Files\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\DirectoryAndDirectoryInfo.exe
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\8-Files\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\DirectoryAndDirectoryInfo.pdb
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\8-Files\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\DirectoryAndDirectoryInfo.csproj.AssemblyReference.cache
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\8-Files\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\DirectoryAndDirectoryInfo.csproj.SuggestedBindingRedirects.cache
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\8-Files\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\DirectoryAndDirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\8-Files\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\DirectoryAndDirectoryInfo.exe
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\8-Files\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\DirectoryAndDirectoryInfo.pdb
