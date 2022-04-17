@@ -1,0 +1,8 @@
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\6-Dates\DateTime\DateTime\bin\Debug\DateTime.exe.config
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\6-Dates\DateTime\DateTime\bin\Debug\DateTime.exe
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\6-Dates\DateTime\DateTime\bin\Debug\DateTime.pdb
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\6-Dates\DateTime\DateTime\obj\Debug\Date.csproj.AssemblyReference.cache
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\6-Dates\DateTime\DateTime\obj\Debug\Date.csproj.SuggestedBindingRedirects.cache
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\6-Dates\DateTime\DateTime\obj\Debug\Date.csproj.CoreCompileInputs.cache
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\6-Dates\DateTime\DateTime\obj\Debug\DateTime.exe
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\6-Dates\DateTime\DateTime\obj\Debug\DateTime.pdb
