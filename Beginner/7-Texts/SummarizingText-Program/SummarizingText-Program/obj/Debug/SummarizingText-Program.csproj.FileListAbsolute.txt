@@ -1,0 +1,8 @@
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\7-Texts\SummarizingText-Program\SummarizingText-Program\bin\Debug\SummarizingText-Program.exe.config
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\7-Texts\SummarizingText-Program\SummarizingText-Program\bin\Debug\SummarizingText-Program.exe
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\7-Texts\SummarizingText-Program\SummarizingText-Program\bin\Debug\SummarizingText-Program.pdb
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\7-Texts\SummarizingText-Program\SummarizingText-Program\obj\Debug\SummarizingText-Program.csproj.AssemblyReference.cache
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\7-Texts\SummarizingText-Program\SummarizingText-Program\obj\Debug\SummarizingText-Program.csproj.SuggestedBindingRedirects.cache
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\7-Texts\SummarizingText-Program\SummarizingText-Program\obj\Debug\SummarizingText-Program.csproj.CoreCompileInputs.cache
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\7-Texts\SummarizingText-Program\SummarizingText-Program\obj\Debug\SummarizingText-Program.exe
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\7-Texts\SummarizingText-Program\SummarizingText-Program\obj\Debug\SummarizingText-Program.pdb
