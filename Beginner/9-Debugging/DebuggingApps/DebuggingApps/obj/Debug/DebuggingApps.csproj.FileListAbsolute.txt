@@ -1,0 +1,8 @@
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\9-Debugging\DebuggingApps\DebuggingApps\bin\Debug\DebuggingApps.exe.config
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\9-Debugging\DebuggingApps\DebuggingApps\bin\Debug\DebuggingApps.exe
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\9-Debugging\DebuggingApps\DebuggingApps\bin\Debug\DebuggingApps.pdb
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\9-Debugging\DebuggingApps\DebuggingApps\obj\Debug\DebuggingApps.csproj.AssemblyReference.cache
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\9-Debugging\DebuggingApps\DebuggingApps\obj\Debug\DebuggingApps.csproj.SuggestedBindingRedirects.cache
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\9-Debugging\DebuggingApps\DebuggingApps\obj\Debug\DebuggingApps.csproj.CoreCompileInputs.cache
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\9-Debugging\DebuggingApps\DebuggingApps\obj\Debug\DebuggingApps.exe
+C:\Users\anthg\Documents\CSharp\CS-Notes\Beginner\9-Debugging\DebuggingApps\DebuggingApps\obj\Debug\DebuggingApps.pdb
