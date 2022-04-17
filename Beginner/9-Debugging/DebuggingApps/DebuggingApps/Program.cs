@@ -10,7 +10,7 @@ namespace DebuggingApps
     {
         static void Main(string[] args)
         {
-            var numbers = new List<int> {1,2,3,4,5,6};
+            var numbers = new List<int> {1,2,4,5,6};
             var smallest = GetSmallest(numbers, 3);
 
             foreach (var number in smallest)
@@ -21,13 +21,23 @@ namespace DebuggingApps
 
         public static List<int> GetSmallest(List<int> list, int count)
         {
+            if (list == null)
+            {
+                throw new ArgumentNullException("list", "Cannot add null as list");
+            }
+            if (count > list.Count || count <= 0)
+            {
+                throw new ArgumentOutOfRangeException("Count", "Count cannot be bigger than the total elements in the list");
+            }
+
             var smallest = new List<int>();
+            var buffer = new List<int>(list);
 
             while (smallest.Count < count)
             {
-                var min = GetSmallest(list);
+                var min = GetSmallest(buffer);
                 smallest.Add(min);
-                list.Remove(min);
+                buffer.Remove(min);
             }
 
             return smallest;
